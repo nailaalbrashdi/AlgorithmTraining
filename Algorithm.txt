@@ -66,6 +66,7 @@ Start
 Input a,b
 Average=a+b/2
 Output Average
+return output
 End
 
 2-Task 2
@@ -80,6 +81,26 @@ output is odd
 return output
 end
 
+3-Task 3
 
- 
+start
+input n                  
+intup firstNumber
+set smallest = firstNumber
+for i=2 to n
+input number
+if number<smallest
+then
+smallest = number
+end if
+end for
+output smallest
+return output
+end
+
+
+
+
+
+
 
