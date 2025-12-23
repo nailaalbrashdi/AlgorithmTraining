@@ -98,6 +98,19 @@ output smallest
 return output
 end
 
+4-task 4
+
+input n
+n=list of numbers 
+if n>0 then 
+output is positive
+else
+output is negative
+return output
+end
+
+ 
+
 
 
 
