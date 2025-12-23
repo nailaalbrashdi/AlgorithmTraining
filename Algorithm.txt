@@ -68,4 +68,18 @@ Average=a+b/2
 Output Average
 End
 
+2-Task 2
+
+start
+input n
+n=list of numbers
+check if n%2=0
+output is even
+else 
+output is odd
+return output
+end
+
+
+ 
 
