@@ -109,7 +109,22 @@ output is negative
 return output
 end
 
- 
+5-Task 5
+
+start
+input n
+n=list of numbers
+DECLARE empty list uniqueList
+for i = 1 to n
+input number
+if number not in uniqueList then
+add number to uniqueList
+end if
+end for
+output uniqueList
+return output
+end
+
 
 
 
