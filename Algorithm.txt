@@ -55,3 +55,17 @@ START
     sum = a + b
     OUTPUT sum
 END
+
+------------------------------------------------------------------------------------------------
+
+Algorithm Design Tasks:
+
+1-Task 1
+
+Start
+Input a,b
+Average=a+b/2
+Output Average
+End
+
+
