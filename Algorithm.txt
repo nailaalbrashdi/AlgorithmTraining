@@ -78,6 +78,7 @@ check if n%2=0
 output is even
 else 
 output is odd
+end if
 return output
 end
 
@@ -106,6 +107,7 @@ if n>0 then
 output is positive
 else
 output is negative
+end if
 return output
 end
 
@@ -113,7 +115,7 @@ end
 
 start
 input n
-n=list of numbers
+n=how many numbers
 DECLARE empty list uniqueList
 for i = 1 to n
 input number
