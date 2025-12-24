@@ -127,6 +127,24 @@ output uniqueList
 return output
 end
 
+6-Task 6
+
+start
+input n
+for number = 2 TO N
+set count = 0
+for i = 1 to number
+if number MOD i = 0 then
+count = count + 1
+end if
+end for        
+if count = 2 then
+output number
+end if
+end for
+end
+
+
 
 
 
